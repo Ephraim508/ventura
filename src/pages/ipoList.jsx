@@ -9,7 +9,7 @@ const IPOList = () => {
     <div className="max-w-6xl mx-auto mt-10 bg-gray-50 shadow-lg rounded-xl overflow-hidden px-4 sm:px-6 lg:px-8">
       {/* Heading */}
       <h2 className="text-2xl sm:text-3xl font-bold text-gray-800 py-6 border-b border-gray-300">
-        IPO List
+        IPO Lists
       </h2>
 
       {/* Desktop Table */}
